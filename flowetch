@@ -115,12 +115,12 @@ c9='^[[37m'
 
 # Art
 
-ARTR1="${c1}     _ _    "
-ARTR2="${c1}    (_\_)   "
-ARTR3="${c1}   (__<__)  "
-ARTR4="${c1}    (_/_)   "
-ARTR5="${c2}    \ |     "
-ARTR6="${c2}     \|/    "
+ARTR1="${c1}     _._    "
+ARTR2="${c1}   '(.;.)'  "
+ARTR3="${c1}   (.:%:.)  "
+ARTR4="${c1}   '(_;_)'  "
+ARTR5="${c6} _._  | ,_.,"
+ARTR6="${c6}  '-'.|/.-' "
 
 # Main Print
 
@@ -130,7 +130,7 @@ cat <<-EOF
  ${ARTR2}  ${c5}user${c0}    ${c2}•••   ${user}
  ${ARTR3}  ${c5}shell${c0}   ${c3}•••   ${shell}
  ${ARTR4}  ${c5}wm${c0}      ${c4}•••   ${wm}
- ${ARTR5}  ${c5}theme${c0}   ${c5}•••   ${theme}
+ ${ARTR5}  ${c5}time${c0}    ${c5}•••   ${uptime}h
  ${ARTR6}  ${c5}pkg${c0}     ${c6}•••   ${pkg}
 
 EOF
