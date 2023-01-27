@@ -6,8 +6,6 @@
   </a>
 </p>
 
-## 👇 Index
-- [👇 Index](#-index)
 - [⚙️ Installation](#️-installation)
 - [🎨 Customization](#-customization)
   - [🖼️ Art](#️-art)
@@ -30,6 +28,6 @@ ARTR1="${c1}     _._    "
 ARTR2="${c1}   '(.;.)'  "
 ARTR3="${c1}   (.:%:.)  "
 ARTR4="${c1}   '(_;_)'  "
-ARTR5="${c6} _._  | ,_.,"
+ARTR5="${c6} _._  | ,-.;"
 ARTR6="${c6}  '-'.|/.-' "
 ```
