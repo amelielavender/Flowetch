@@ -26,10 +26,10 @@ This fetch Is thought to be used as a personal fetch and have your own fork of i
 ### 🖼️ Art
 
 ```shell
-ARTR1="${c1}     _ _    "
-ARTR2="${c1}    (_\_)   "
-ARTR3="${c1}   (__<__)  "
-ARTR4="${c1}    (_/_)   "
-ARTR5="${c2}    \ |     "
-ARTR6="${c2}     \|/    "
+ARTR1="${c1}     _._    "
+ARTR2="${c1}   '(.;.)'  "
+ARTR3="${c1}   (.:%:.)  "
+ARTR4="${c1}   '(_;_)'  "
+ARTR5="${c6} _._  | ,_.,"
+ARTR6="${c6}  '-'.|/.-' "
 ```
